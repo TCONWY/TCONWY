@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Murad Khabibov
+- 👋 Hi, I’m Murad Khabibov
  
 ---
  
