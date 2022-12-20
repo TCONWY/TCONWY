@@ -1,1 +1,0 @@
-[![Header](https://github.com/TCONWY/TCONWY/blob/master/assets/header.gif)]
